@@ -3,8 +3,7 @@
     <td><img src="https://github.com/nju-cs-2025-xmzheng/.github/raw/master/NJU-Logo.png" width="80"></td>
     <td>
       <h1>Structure and Interpretation of Computer Programs (SICP)</h1>
-      <h3>Fall 2025, Nanjing University</h3>
-      <p>XM Zheng</p>
+      <h3>Fall 2025, Nanjing University, XM Zheng</h3>
     </td>
   </tr>
 </table>
