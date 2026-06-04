@@ -1,0 +1,6 @@
+ok
+.ok*
+__pycache__/
+.mypy_cache/
+.vscode/
+tests/
